@@ -1,4 +1,0 @@
-<FilesMatch "\.gz$">
-    AddType "application/javascript" .gz
-    AddEncoding gzip
-</FilesMatch>
