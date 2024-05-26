@@ -2,14 +2,14 @@
   Content-Type: application/javascript
   Content-Encoding: gzip
 
-/Build/2.data.gz
+/Build/1.data.gz
   Content-Type: application/octet-stream
   Content-Encoding: gzip
 
-/Build/3.wasm.gz
+/Build/1.wasm.gz
   Content-Type: application/wasm
   Content-Encoding: gzip
 
-/Build/4.symbols.json.gz
+/Build/1.symbols.json.gz
   Content-Type: application/json
   Content-Encoding: gzip
